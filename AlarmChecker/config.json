@@ -1,0 +1,13 @@
+﻿{
+  "alarm": {
+    "User": "user",
+    "Password": "pwd",
+    "Domain": "my.alarm.com",
+    "LoginPath": "/login",
+    "StatusPath": "/status"
+  },
+  "openhab": {
+    "Domain":  "hab.my.com",
+    "Item": "my_item"
+  }
+}
